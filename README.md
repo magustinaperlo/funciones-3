@@ -77,6 +77,7 @@ def potencia(numero, exponente=2):
 def calcular_descuento(precio, porcentaje_descuento=10)
     descuento  =precio * porcentaje_descuento / 100
     return descuento 
+    #faltan ":" en el nombre de la funcion para que procese el código
 
 #función que suma 5 numeros:
 def sumar(a=6, b=8, c=3, d=9, e=2):
